@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_03",
+    "title": "",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "CORRUPT",
+    "h2": "OUTSIDE",
+    "h3": "WESTERN",
+    "v1": "FOCUSED",
+    "v2": "PRESETS",
+    "v3": "SPIDERS",
+    "hidden": ["PROTRUDES"]
+  },
+  "clues": {
+    "h1": "Like an official who takes bribes",
+    "h2": "Exterior to",
+    "h3": "Genre for Eastwood or Wayne",
+    "v1": "Absorbed and attentive",
+    "v2": "Manufacturer settings",
+    "v3": "The children of Arachne",
+    "hidden": ["Extends beyond the surface"]
+  }
+}

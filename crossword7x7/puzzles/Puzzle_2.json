@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_02",
+    "title": "",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "CREATES",
+    "h2": "ABSENCE",
+    "h3": "CLOTHES",
+    "v1": "DRIBBLE",
+    "v2": "MAJESTY",
+    "v3": "BEECHES",
+    "hidden": ["CELEBRATE"]
+  },
+  "clues": {
+    "h1": "Brings into existence",
+    "h2": "It makes the heart grow fonder",
+    "h3": "Shirts, pants, socks, etc.",
+    "v1": "To seep or trickle",
+    "v2": "Of purple mountains, or royalty",
+    "v3": "Areas between high and low tide",
+    "hidden": ["What Kool & The Gang say to do with good times"]
+  }
+}

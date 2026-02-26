@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_01",
+    "title": "Come again",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "MEDICAL",
+    "h2": "STORIES",
+    "h3": "LETTERS",
+    "v1": "FEATHER",
+    "v2": "MIGRATE",
+    "v3": "MADEIRA",
+    "hidden": ["REITERATE"]
+  },
+  "clues": {
+    "h1": "License to heal",
+    "h2": "Unit of height, for a skyscraper",
+    "h3": "Texts, before texts - or emails",
+    "v1": "Natural flight material - most of the time",
+    "v2": "What geese do when seasons change",
+    "v3": "A Portuguese wine",
+    "hidden": ["'To say again' I say again (9)"]
+  }
+}

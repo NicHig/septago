@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_04",
+    "title": "",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "FEEDING",
+    "h2": "TUESDAY",
+    "h3": "PRIESTS",
+    "v1": "REQUIRE",
+    "v2": "ODYSSEY",
+    "v3": "INFANTS",
+    "hidden": ["DENATURES"]
+  },
+  "clues": {
+    "h1": "Supplying or providing",
+    "h2": "Day for Mars or tacos",
+    "h3": "Altar egos",
+    "v1": "To need",
+    "v2": "Tale with Argos and Circe",
+    "v3": "Newborns",
+    "hidden": ["To destroy the characteristic properties of"]
+  }
+}

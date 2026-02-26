@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_06",
+    "title": "",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "VIOLENT",
+    "h2": "CARTOON",
+    "h3": "CAREERS",
+    "v1": "CICADAS",
+    "v2": "FLUTTER",
+    "v3": "INDOORS",
+    "hidden": ["RATIONALE"]
+  },
+  "clues": {
+    "h1": "Brutal, opposite of gentle",
+    "h2": "___ Network; with Tom & Jerry",
+    "h3": "Lifelong vocations",
+    "v1": "World's loudest insects",
+    "v2": "As butterflies, or hearts when one gets butterflies",
+    "v3": "Not outside",
+    "hidden": ["Set of logical reasons"]
+  }
+}

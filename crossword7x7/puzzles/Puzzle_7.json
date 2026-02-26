@@ -1,0 +1,30 @@
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_07",
+    "title": "",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-02-25",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "TRAINED",
+    "h2": "ANIMALS",
+    "h3": "VECTORS",
+    "v1": "DRUNKEN",
+    "v2": "BISMUTH",
+    "v3": "CELLARS",
+    "hidden": ["RENT", "MILER"]
+  },
+  "clues": {
+    "h1": "Well behaved, as a pet",
+    "h2": "Like partiers or mammals",
+    "h3": "Lines with direction",
+    "v1": "Like a sailor noone knows what to do with",
+    "v2": "Bi to Mendeleev",
+    "v3": "Like a basement for wine or comedy",
+    "hidden": ["Lessor's payment (4)", "1600M Runner, familiarly (5)"]
+  }
+}

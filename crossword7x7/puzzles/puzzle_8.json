@@ -1,1 +1,30 @@
-
+{
+  "schema_version": "puzzlefile.v2",
+  "meta": {
+    "id": "Puzzle_08",
+    "title": "Anagram_01",
+    "subtitle": "",
+    "author": "Nicholas",
+    "date": "2026-03-04",
+    "difficulty": "easy",
+    "instructions": "**How to Play**\n\nFill the 7×7 grid. The letters in the intersections of your answer can be unscrambled to find the hidden word\n\n- Click a square to focus it.\n- Type to fill.\n- Arrow keys move within the active bar.\n- At grid intersections, arrowing across the other direction toggles the active bar.\n- Tab / Enter cycles through clues. Shift+Tab goes back.\n- Space advances one cell."
+  },
+  "answers": {
+    "h1": "SEVERAL",
+    "h2": "SISTERS",
+    "h3": "HIMSELF",
+    "v1": "DELIMIT",
+    "v2": "DENTIST",
+    "v3": "PATROLS",
+    "hidden": ["REALITIES"]
+  },
+  "clues": {
+    "h1": "Multiple, unveilings of secret information",
+    "h2": "Twins, but not boys; stands against",
+    "h3": "Zichzelf, of Flanders",
+    "v1": "Bounded, to create boundries",
+    "v2": "Restricted, cavity inspector",
+    "v3": "Keeps watch over, gates to other dimensions",
+    "hidden": ["Harsh facts of life, or one of the people of Moses (9)"]
+  }
+}
